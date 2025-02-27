@@ -1,5 +1,5 @@
 # enveliochallenge
-Envelio coding challenge to predict current_A
+ coding challenge to predict current_A
 
 Project Title: Energy Grid Current Forecasting
 
